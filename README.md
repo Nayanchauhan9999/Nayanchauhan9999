@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+Hi, I'm Nayan Chauhan! 👋. A web developer...
+
+## 🛠 My Skills
+Javascript, HTML, CSS, ReactJS, NextJs, ExpressJs, MongooseJs, MongoDB, NodeJs, Typescript, Rest-Api, Styled-Components, Formik, React-hook-form, Redux, npm, Axios,Redux-toolkit, Git & GitHub, Bootstrap, TailwindCSS, Material UI.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nayan-chauhan-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chauhan-nayan)
+
+
+
